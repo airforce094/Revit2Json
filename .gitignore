@@ -349,3 +349,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# No54 20201121 added ignore IDE configure
+*.vs
+*.vscode
